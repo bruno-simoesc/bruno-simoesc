@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Olá 👋</h1>
+<h1 align="center">👨‍💻 Olá, eu sou o Bruno Simoes! Apaixonado por tecnologia, códigos e tudo que faz o mundo girar 🚀✨</h1>
 
 ###
 
