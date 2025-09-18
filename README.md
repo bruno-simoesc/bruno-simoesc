@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**bruno-simoesc/bruno-simoesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
